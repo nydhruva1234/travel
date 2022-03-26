@@ -1,0 +1,32 @@
+.card{
+    height: 100vh;
+    padding-top: 19px;
+    text-align: center;
+    font-size: 25px;
+    background-color:azure;
+    background-size: cover;
+    background-image: url(../img/bg4.jpg);
+}
+
+
+.form{
+    max-width: 370px;
+    margin: 42px auto;
+}
+.form-input{
+    margin: 14px 0;
+    width: 100%;
+    padding: 3px 2px;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+.btn-dark{
+    padding: auto;
+    color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+    background: none;
+    cursor: pointer;
+}
